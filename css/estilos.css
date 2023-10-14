@@ -1,0 +1,22 @@
+html
+{
+    margin: 0 auto;
+    width: 95%;
+}
+.wrapper
+{
+    width: 90%;
+    margin: 0 auto;
+}
+.page-header h2
+{
+    margin-top: 0;
+}
+table tr td:last-child a
+{
+    margin-right: 15px;
+}
+#error1
+{
+    font-size: 300%;
+}
